@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="spinnerItems">
+        <item>left-to-right</item>
+        <item>right-to-left</item>
+        <item>bottom-to-up</item>
+        <item>up-to-bottom</item>
+        <item>fadein-to-fadeout</item>
+        <item>rotateout-to-rotatein</item>
+
+    </string-array>
+</resources>
