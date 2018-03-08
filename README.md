@@ -6,7 +6,7 @@ animattion between activities
 ### It`s top animations between activities.
 
 ## **Usage** ##
-![image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+![image](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif)
 
 
 **Gradle**
