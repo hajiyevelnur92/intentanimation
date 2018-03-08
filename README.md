@@ -5,15 +5,22 @@ animattion between activities
 
 ### It`s top animations between activities.
 
-## **Example** ##
-![enter image description here](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif "IntentAnimation.gif")
+**Gradle**
 
-### **Gradle**
-```groovy
-compile 'com.github.hajiyevelnur92:intentanimation:1.0'
-```  
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+    dependencies {
+         compile 'com.github.hajiyevelnur92:intentanimation:1.0'
+    }
 
 ## **Usage** ##
+![image](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif)
+
 #### **Code**
 ```java
 
