@@ -7,7 +7,7 @@ animattion between activities
 
 ## **Example** ##
 
-![enter image description here](https://drive.google.com/file/d/1tHel_76zBGVgNbZuZFlRoGxrb3pvCP0v/view")
+![enter image description here](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif")
 
 ### **Gradle**
 ```groovy
@@ -17,14 +17,24 @@ compile 'com.github.hajiyevelnur92:intentanimation:1.0'
 ## **Usage** ##
 #### **Code**
 ```java
-customType(MainActivity.this,mystring);
-//mystring has to be one of bellow string
-//left-to-right
-//right-to-left
-//bottom-to-up
-up-to-bottom
-fadein-to-fadeout
-rotateout-to-rotatein
+
+import static maes.tech.intentanim.CustomIntent.customType;
+//MainActivity or any activity name
+protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        //.....//
+        
+        //here is library
+        customType(MainActivity.this,"here is string name");
+}
+        
+*left-to-right
+*right-to-left
+*bottom-to-up
+*up-to-bottom
+*fadein-to-fadeout
+*rotateout-to-rotatein
 ```
 
 ### [License](./LICENSE.md)
