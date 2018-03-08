@@ -37,4 +37,4 @@ protected void onCreate(Bundle savedInstanceState) {
 *rotateout-to-rotatein
 ```
 
-### [License](./LICENSE.md)
+### [License](./LICENSE)
