@@ -7,7 +7,7 @@ animattion between activities
 
 ## **Example** ##
 
-![enter image description here](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif "Intent_animation.gif")
+![enter image description here](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif "Animation.gif")
 
 ### **Gradle**
 ```groovy
