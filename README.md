@@ -5,6 +5,10 @@ animattion between activities
 
 ### It`s top animations between activities.
 
+## **Usage** ##
+![test image size](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif)
+
+
 **Gradle**
 
     allprojects {
@@ -18,8 +22,7 @@ animattion between activities
          compile 'com.github.hajiyevelnur92:intentanimation:1.0'
     }
 
-## **Usage** ##
-![image](https://image.ibb.co/hzqDnn/ezgif_com_video_to_gif.gif)
+
 
 #### **Code**
 ```java
