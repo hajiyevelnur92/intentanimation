@@ -1,5 +1,5 @@
 # intentanimation
-animattion between activities
+animation between activities
 **Intent animations**
 ===================
 
