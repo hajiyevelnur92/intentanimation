@@ -7,6 +7,7 @@ animation between activities
 
 ## **Usage** ##
 ![image](https://image.ibb.co/kGHZSn/ezgif_com_video_to_gif_1.gif)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Intent%20animations-green.svg?style=flat )]( https://android-arsenal.com/details/1/6816 )
 
 
 **Gradle**
